@@ -51,7 +51,7 @@ Designed a sequential circuit to recognize Sony infrared remote-control bit sequ
 - Implemented the design on a Basys FPGA
 - Interfaced the FPGA with a breadboarded IR receiver
 
-[View Project →](./FPGA Sequence Recognizer.pdf)
+[View Project](#)
 
 ---
 
