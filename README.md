@@ -128,14 +128,22 @@ Worked on a custom high-voltage power supply for professional audio hardware.
 
 ---
 
-## Currently Learning
+## Fun Projects
 
-- Active Circuit Design
-- Analog / Mixed-Signal IC Design
-- Power Electronics
-- PCB Design
-- Embedded Hardware
-- RF / High-Frequency Circuits
+### 3D Modeling Project
+- Created original design based off of fictional character "Domo" using ONshape software
+- Printed and painted model with intended purpose of keychain
+- [Onshape Link](https://cad.onshape.com/documents/81a9036db2e1c0ac5437e25d/w/229a041c334468b1366cd22f/e/ab6516561a5b13e57b19713b)
+
+### 3-to-8 line decoder built in Minecraft 
+- Created a 3 input binary decoder using simple logic gates assembled in game
+- Implemented the decoder using combinations of AND, OR, and NOT logic to produce eight unique output states
+- Built as a hands-on way to explore digital logic and combinational circuits outside of a traditional electronics environment
+
+### Accurate 9 second repeating timer in Minecraft
+- Built a repeating timer capable of producing a consistent 9-second interval using Minecraft's native redstone components.
+- Used in-game binary states and timing behavior to create a level of time resolution not normally available without external mods.
+- Designed, tested, and tuned the circuit entirely within the game.
 
 ---
 
