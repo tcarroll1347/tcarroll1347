@@ -37,7 +37,7 @@ Designed, simulated, built, and experimentally characterized a second-order Sall
 - Built and tested the circuit experimentally
 - Compared measured results against analytical and MATLAB models
 
-[View Project →](#)
+[View Project →](Active-Sallen-Key-Circuit-Design-Carroll.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ Designed a sequential circuit to recognize Sony infrared remote-control bit sequ
 - Implemented the design on a Basys FPGA
 - Interfaced the FPGA with a breadboarded IR receiver
 
-[View Project →](./FPGA%Sequence%Recognizer.pdf)
+[View Project →](./FPGA-Sequence-Recognizer-Carroll.pdf)
 
 ---
 
@@ -69,7 +69,7 @@ Research experience in semiconductor fabrication and lithographic process develo
 - Cleanroom fabrication
 - Process characterization and optimization
 
-[View Research →](#)
+[View Research →](REU-Poster-Carroll.pdf)
 
 ---
 
