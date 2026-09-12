@@ -51,7 +51,7 @@ Designed a sequential circuit to recognize Sony infrared remote-control bit sequ
 - Implemented the design on a Basys FPGA
 - Interfaced the FPGA with a breadboarded IR receiver
 
-[View Project](#)
+[View Project →](./FPGA%Sequence%Recognizer.pdf)
 
 ---
 
@@ -149,4 +149,4 @@ Worked on a custom high-voltage power supply for professional audio hardware.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/timothycarroll-) • [Email](mailto:tcarroll1347@gmail.com) • [Resume](./Timothy_s_Resume_82026.pdf)
+[LinkedIn](https://linkedin.com/in/timothycarroll-) • [Email](mailto:tcarroll1347@gmail.com) • [Resume](./Timothy%s%Resume%82026.pdf)
