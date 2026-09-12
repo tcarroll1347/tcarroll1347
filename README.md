@@ -149,4 +149,4 @@ Worked on a custom high-voltage power supply for professional audio hardware.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/timothycarroll-) • [Email](mailto:tcarroll1347@gmail.com) • [Resume](#)
+[LinkedIn](https://linkedin.com/in/timothycarroll-) • [Email](mailto:tcarroll1347@gmail.com) • [Resume](#)(./Timothy_s_Resume_82026.pdf)
